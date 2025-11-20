@@ -1,0 +1,8 @@
+Bestell-ID,Produktname,Preis (EUR),Menge,Kundenzone,Datum
+1001,Laptop,"1200,5",1,Sued,2025-01-15
+1002,Maus,25,2,Mitte,2025/01/16
+1003,Tastatur,55.99,NaN,NaN,2025-01-17
+1004,Laptop,"1200,5",1,Sued,2025-01-15
+1005,Monitor,"299,99",3,Sued,2025-01-20
+1006,Kabel,Kein Preis,4,Nord,2025-17-01
+1007,Kopfhörer,45.00$,2,mitte,2025-01-22
